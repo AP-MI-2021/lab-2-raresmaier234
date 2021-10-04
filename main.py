@@ -55,4 +55,6 @@ def main():
 
 test_get_largest_prime_below()
 test_is_palindrom()
-main()
+
+if __name__ == '__main__':
+    main()
